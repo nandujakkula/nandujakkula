@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @nandujakkula
+- 👋 Hi, I’m JAKKULA NANDA KISHORE YADAV
 - 👀 I’m interested in the field of Data Science
